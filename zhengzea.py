@@ -7,3 +7,4 @@ for w in words:
     m = re.match(part,w)
     if m:
         print(w)
+print (a)
